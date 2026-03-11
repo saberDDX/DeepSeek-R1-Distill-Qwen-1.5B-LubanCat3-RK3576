@@ -39,3 +39,4 @@
   将修改过的DeepSeek-R1-Distill-Qwen-1.5B_rkllm上传到板卡（同局域网传输，或者用u盘拷贝）
   运行DeepSeek-R1-Distill-Qwen-1.5B_rkllm中的demo_Linux_aarch64,最终实现板卡端轻量化对话交互。
   
+  #已转换的rkllm模型在https://console.box.lenovo.com/l/l0tXb8，提取码rkllm
